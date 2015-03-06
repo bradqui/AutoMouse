@@ -2,12 +2,12 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
-    <PublishUrlHistory>ftp://automouse.staticservers.com/public_html/|ftp://staticservers.com/AutoMouse/|ftp://staticservers.com/public_html/|ftp://staticservers.com/public_html/AutoMouse/|http://unknown.staticservers.com/AutoMouse/</PublishUrlHistory>
+    <PublishUrlHistory>ftp://automouse.staticservers.com/public_html/</PublishUrlHistory>
     <InstallUrlHistory>http://automouse.staticservers.com/</InstallUrlHistory>
     <SupportUrlHistory>http://automouse.staticservers.com</SupportUrlHistory>
-    <UpdateUrlHistory>http://automouse.staticservers.com/|http://unknown.staticservers.com/AutoMouse/</UpdateUrlHistory>
+    <UpdateUrlHistory>http://automouse.staticservers.com/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
-    <ErrorReportUrlHistory>http://automouse.staticservers.com|http://unknown.staticservers.com/AutoMouse/</ErrorReportUrlHistory>
+    <ErrorReportUrlHistory>http://automouse.staticservers.com</ErrorReportUrlHistory>
     <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>true</VerifyUploadedFiles>
   </PropertyGroup>

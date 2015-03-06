@@ -1,0 +1,52 @@
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\AutoMouse.MainForm.resources
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\AutoMouse.AboutBox1.resources
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\AutoMouse.Directions.resources
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\AutoMouse.Properties.Resources.resources
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\bin\Release\AutoMouse.exe
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\bin\Release\AutoMouse.pdb
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\AutoMouse.exe
+C:\Documents and Settings\brad.quillen\My Documents\Downloads\MouseMove_src\MouseMove\MouseMove\obj\Release\AutoMouse.pdb
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.exe
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.pdb
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Release\AutoMouse.exe.manifest
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Release\AutoMouse.application
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Release\AutoMouse.exe
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Release\AutoMouse.pdb
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.AboutBox1.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.MainForm.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.Directions.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.Properties.Resources.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.exe.manifest
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\AutoMouse.application
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Release\GenerateResource.read.7.tlog
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.exe
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.pdb
+C:\C#\AutoMouse\AutoMouse\bin\Release\AutoMouse.exe.manifest
+C:\C#\AutoMouse\AutoMouse\bin\Release\AutoMouse.application
+C:\C#\AutoMouse\AutoMouse\bin\Release\AutoMouse.exe
+C:\C#\AutoMouse\AutoMouse\bin\Release\AutoMouse.pdb
+C:\C#\AutoMouse\AutoMouse\obj\Release\ResolveAssemblyReference.cache
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.AboutBox1.resources
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.MainForm.resources
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.Directions.resources
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.Properties.Resources.resources
+C:\C#\AutoMouse\AutoMouse\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\C#\AutoMouse\AutoMouse\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\C#\AutoMouse\AutoMouse\obj\Release\GenerateResource.read.7.tlog
+C:\C#\AutoMouse\AutoMouse\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.exe.manifest
+C:\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.application
+C:\C#\AutoMouse\AutoMouse\obj\Release\GenerateResource.read.4.tlog
+C:\C#\AutoMouse\AutoMouse\bin\Release\automouse_green.ico
+C:\C#\AutoMouse\AutoMouse\bin\Release\automouse_red.ico
+C:\C#\AutoMouse\AutoMouse\obj\Release\GenerateResource.read.5.tlog
+E:\Brad\RNOW_laptop_backup\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.exe
+E:\Brad\RNOW_laptop_backup\C#\AutoMouse\AutoMouse\obj\Release\AutoMouse.pdb

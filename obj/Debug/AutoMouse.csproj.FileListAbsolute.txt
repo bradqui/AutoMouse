@@ -1,0 +1,17 @@
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe.manifest
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Debug\AutoMouse.application
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\bin\Debug\AutoMouse.pdb
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.AboutBox1.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.MainForm.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.Directions.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.Properties.Resources.resources
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.exe.manifest
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.application
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.exe
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\AutoMouse.pdb
+C:\Documents and Settings\brad.quillen\Desktop\AutoMouse\AutoMouse\obj\Debug\GenerateResource.write.39.tlog
